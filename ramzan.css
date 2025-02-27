@@ -960,11 +960,11 @@ i.fa-heart {
   font-size: 45px;
   font-weight: 800;
   font-stretch: 70%;
-  background-image: url(image/sehri.jpg);
+  background-image: url(image/i11.jpg);
   background-size: 230px 120px;
   color: transparent;
   background-clip: text;
-  user-select: none;
+  /* user-select: none; */
   font-family: "Montserrat Alternates", serif;
   font-weight: 900;
   font-style: italic;
